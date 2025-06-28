@@ -21,6 +21,15 @@ The final product is a cohesive Tableau Storyboard that guides clinicians, polic
 - Temporal patterning suggests AR(1) dynamics, enabling future modeling.
 - Post-2015 diagnostic slowdown may reflect systemic saturation or reporting shifts.
 - Geo-demographic analysis highlights equity gaps across states and populations.
+ Data Sources
+This project draws from two key types of data:
+- Individual-Level Diagnostic Data:
+https://www.kaggle.com/datasets/uppulurimadhuri/dataset
+- National Prevalence and Demographic Data:
+Autism prevalence by state and year, along with population and policy coverage:
+- U.S. Census Population Estimates
+Used to calculate prevalence per 1,000 children by providing denominator data.
+
 # Tableau Storyboard
 https://public.tableau.com/views/AutismProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
