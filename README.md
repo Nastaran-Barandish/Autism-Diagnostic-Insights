@@ -27,9 +27,10 @@ This project draws from two key types of data:
 https://www.kaggle.com/datasets/uppulurimadhuri/dataset
 - National Prevalence and Demographic Data:
 Autism prevalence by state and year, along with population and policy coverage:
-
-- U.S. Census Population Estimates
 Used to calculate prevalence per 1,000 children by providing denominator data.
+- U.S. Census Population Estimates:
+https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-total.html
+
 
 # Tableau Storyboard
 https://public.tableau.com/views/AutismProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
