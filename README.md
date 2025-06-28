@@ -22,16 +22,16 @@ The final product is a cohesive Tableau Storyboard that guides clinicians, polic
 - Post-2015 diagnostic slowdown may reflect systemic saturation or reporting shifts.
 - Geo-demographic analysis highlights equity gaps across states and populations.
 # Data Sources
-This project draws from three key datasets:
-- Individual-Level Diagnostic Data
-Kaggle: Autism Trait Dataset
-Used to analyze behavioral scores (e.g., Qchat-10, SRS, CARS) and perform clustering by diagnostic traits and demographics.
-- National Prevalence and Policy Data
-Hugging Face: Autism Prevalence Studies Dataset
-Provides U.S. state-level prevalence rates across years, including population denominators and diagnostic policy context.
-- U.S. Census State Population Estimates
-U.S. Census Bureau – State Total Population Estimates
-Used to calculate per-capita prevalence and normalize comparisons across geography and time.
+This project draws from two key types of data:
+
+Individual-Level Diagnostic Data:
+https://www.kaggle.com/datasets/uppulurimadhuri/dataset
+
+National Prevalence and Demographic Data:
+https://huggingface.co/datasets/HHS-Official/autism-prevalence-studies Used to calculate prevalence per 1,000 children by providing denominator data.
+
+U.S. Census Population Estimates: 
+https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-total.html . 
 
 # Tableau Storyboard
 https://public.tableau.com/views/AutismProject/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
