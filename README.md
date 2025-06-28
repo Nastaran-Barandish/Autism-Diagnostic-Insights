@@ -21,7 +21,7 @@ The final product is a cohesive Tableau Storyboard that guides clinicians, polic
 - Temporal patterning suggests AR(1) dynamics, enabling future modeling.
 - Post-2015 diagnostic slowdown may reflect systemic saturation or reporting shifts.
 - Geo-demographic analysis highlights equity gaps across states and populations.
- Data Sources
+# Data Sources
 This project draws from two key types of data:
 - Individual-Level Diagnostic Data:
 https://www.kaggle.com/datasets/uppulurimadhuri/dataset
